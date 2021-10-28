@@ -1,0 +1,7 @@
+F:\Dot_net\String_2_\String_2_\bin\Debug\String_2_.exe.config
+F:\Dot_net\String_2_\String_2_\bin\Debug\String_2_.exe
+F:\Dot_net\String_2_\String_2_\bin\Debug\String_2_.pdb
+F:\Dot_net\String_2_\String_2_\obj\Debug\String_2_.csproj.CoreCompileInputs.cache
+F:\Dot_net\String_2_\String_2_\obj\Debug\String_2_.exe
+F:\Dot_net\String_2_\String_2_\obj\Debug\String_2_.pdb
+F:\Dot_net\String_2_\String_2_\obj\Debug\String_2_.csproj.AssemblyReference.cache
